@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Primary Theme -->
+    <color name="primary">#11B5B5</color>
+    <color name="primary_dark">#0C8E8E</color>
+    <color name="primary_light">#E6F7F7</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_main">#FFFFFF</color>
+    <color name="bg_soft">#F4FAFA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="hint_grey">#9AA0A6</color>
+
+    <!-- Status -->
+    <color name="success">#2E7D32</color>
+    <color name="danger">#E53935</color>
+
+    <!-- ✅ NEW: chip bg -->
+    <color name="success_bg">#E8F5E9</color>
+
+</resources>

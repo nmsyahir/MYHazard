@@ -108,6 +108,25 @@
                         android:textSize="14sp"
                         android:autoLink="web"
                         android:layout_marginTop="6dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Backend API Repository:"
+                        android:textStyle="bold"
+                        android:textSize="13sp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/text_secondary"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="https://github.com/nmsyahir/MYHazard-Server"
+                        android:textColor="#1E88E5"
+                        android:textSize="14sp"
+                        android:autoLink="web"
+                        android:layout_marginTop="4dp"/>
+
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
